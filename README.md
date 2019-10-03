@@ -1,2 +1,2 @@
-# First_Step_to_Programmer
+# First_Step_to_Algorithm
 For self-Studying
